@@ -3,6 +3,8 @@ import './App.css';
 import User from './Components/User/User';
 import Info from './Components/Info/Info';
 import Data from './Components/Data/Data';
+import Counter from './Components/Counter';
+
 function App() {
   return (
     <div className="App">
@@ -12,6 +14,7 @@ function App() {
       </User>
       <Info name="Teniola" />
       <Data />
+      <Counter />
     </div>
   );
 }

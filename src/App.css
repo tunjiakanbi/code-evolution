@@ -7,3 +7,7 @@
   align-items: center;
   flex-direction: column;
 }
+.counts {
+  color: #fff;
+  margin-top: 3em;
+}
