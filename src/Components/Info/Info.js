@@ -5,7 +5,7 @@ class Info extends Component {
     render() {
         return (
         <h1 className="User-heading">Welcome Info: {this.props.name}</h1>
-        // the key thiis is using the reserved this keyword
+        // the key this is using the reserved this keyword
        
         );
     }
